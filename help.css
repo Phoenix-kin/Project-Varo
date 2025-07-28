@@ -1,0 +1,49 @@
+header{
+    font-size: 50px;
+    font-weight: bold;
+    color: blueviolet;
+    letter-spacing: -5px;
+    margin: 10px 10px 10px 70px;
+}
+.search{
+    background-image: url("C:/Users/elamb/Desktop/Project1/V2.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-content: center;
+    height: 40%;
+    background-color: #8c58d0;
+}
+.search input{
+    width: 65%;
+    border-radius: 40px;
+    border: hidden;
+    height: 35px;
+}
+.help{
+    margin-top: 50px;
+}
+.options button{
+    height: 10%;
+    width: 100%;
+    margin: 10px 0;
+    background-color: white;
+    color: #9524e6;
+    font-size: 20px;
+    border: 1px solid #9524e6;
+}
+.qouts h4{
+    font-size: 25px;
+    font-weight: bolder;
+    letter-spacing: -1.5px;
+    margin: 20px 0;
+}
+.qouts p{
+    font-size: 15px;
+    color: #9524e6;
+    padding-top: 20px;
+    border: 1 solid black;
+}
+footer{
+    font-size: 15px;
+    margin: 30px 0 30px 70px;
+}

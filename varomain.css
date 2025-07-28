@@ -1,0 +1,435 @@
+
+.dropdown:hover .dropdown-menu{
+    display: inline-block;
+    margin-top: 0;
+}
+.navbar-nav .nav-link:hover ul{
+    background-color: #9524e6;
+}
+.navbar a{
+    font-size: 18px;
+}
+.navbar{
+    padding: 20px;
+}
+.nav-link{
+    padding-left: 40px;
+}
+.get button{
+    height: 40px;
+    width: 120px;
+    background-color: #9524e6;
+    font-size: 20px;
+    margin: 7px;
+}
+.set{
+    padding: 50px;
+}
+.set h1{
+    font-size: 60px;
+    color: black;
+}
+.set input{
+    width: 360px;
+    height: 50px;
+    padding: 15px;
+}
+.set button{
+    height: 55px;
+    width: 120px;
+    background-color: #9524e6;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+}
+.left p,
+.left h1{
+    padding: 15px 0px 15px 0px;
+}
+#mycarousel{
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+.rating{
+    background-image: url("C:/Users/elamb/Desktop/project1/V2.webp");
+    background-color: #d09bf6;
+    height: 100%;
+    background-size: cover;
+}
+.qotes{
+    font-size: 70px;
+    font-weight: bold;
+    color: #2d024b;
+    line-height: 1;
+    text-align: center;
+    letter-spacing: -5px;
+    width: 450px;
+    padding-top: 75px;
+}
+.app-store,
+.play-store{
+    font-size: 23px;
+    text-align: center;
+    padding-top: 75px;
+}
+marquee{
+    margin-top: 70px;
+}
+marquee img{
+    padding: 0 100px 0 100px;
+}
+.big_things_in_varo h1{
+    color: white;
+    margin: 70px 0 30px 100px;
+}
+.big_things_in_varo{
+    margin-bottom: 50px;
+}
+.no-fee{
+    background-color: #d09bf6;
+    border-radius: 5px;
+    align-items: center;
+    color: rgb(75, 40, 1);
+    display: flex;
+    height: 200px;
+}
+.advance{
+    background-color: rgb(4, 44, 4);
+    border-radius: 5px;
+    align-items: center;
+    color: rgb(232, 232, 99);
+    display: flex;
+    height: 200px;
+}
+.builder-card{
+    background-color: #2d024b;
+    border-radius: 5px;
+    align-items: center;
+    color: #f2a295;
+    display: flex;
+    height: 200px;
+}
+.savings{
+    background-color: yellow;
+    border-radius: 5px;
+    align-items: center;
+    color: #8c58d0;
+    display: flex;
+    height: 200px;
+}
+.row1 h5{
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1;
+}
+.service{
+    background-image:  url("C:/Users/elamb/Desktop/project1/V2.webp");
+}
+.service ul{
+    display: flex;
+    list-style: none;
+    color: #f2a295;
+}
+.service li h1{
+    padding: 0 30px 0 30px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.left-2,
+.right-2{
+    margin: 50px;
+    width: 90%;
+}
+.left-2 p{
+    font-size: 20px;
+}
+.left-2 div{
+    font-size: 60px;
+    font-weight: bold;
+    letter-spacing: -4px;
+    line-height: 1;
+    color: black;
+    padding: 5px 5px 5px 0;
+}
+.left-2{
+    padding-right: 150px;
+}
+.left-2 button{
+    height: 50px;
+    width: 150px;
+    background-color: #9524e6;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px 30px 30px 0;
+}
+.left-3 h5{
+    font-size: 20px;
+    color: #faefdc;
+}
+.left-3 div{
+    font-size: 80px;
+    font-weight: bold;
+    letter-spacing: -5px;
+    line-height: 1;
+    color: #faefdc;
+}
+.right-3 p{
+    margin-top: 50px;
+    font-size: 20px;
+    color: #faefdc;
+    width: 100%;
+}
+.right-3 button{
+    height: 50px;
+    width: 150px;
+    color: #9524e6;
+    font-size: 20px;
+    font-weight: bold;
+}
+.surprise-fee{
+    background-color: #2d024b;
+}
+.cashback{
+    background-color: #183428;
+}
+.cashback-qote{
+    color: #fdf0af;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.cashback-qote p{
+    font-size: 20px;
+    padding: 20px;
+}
+.cashback-qote div{
+    font-size: 70px;
+    font-weight: bold;
+    letter-spacing: -5px;
+    line-height: 1;
+}
+.cashback-qote button{
+    height: 50px;
+    width: 150px;
+    color: #9524e6;
+    font-size: 20px;
+    font-weight: bold;
+}
+.deposit{
+    background-color: #faefdc;
+}
+.deposit-img{
+    height: 85%;
+    width: 80%;
+    margin: 50px 0 0 50px;
+}
+.deposit-qote p{
+    font-size: 18px;
+    color: #ed6c52;
+    padding: 20px 0;
+}
+.deposit-qote div{
+    font-size: 80px;
+    color: #ed6c52;
+    font-weight: bold;
+    line-height: 1;
+    letter-spacing: -5px;
+}
+.deposit-qote{
+    margin-top: 70px;
+}
+.deposit-qote button{
+    height: 50px;
+    width: 150px;
+    background-color: #9524e6;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.ayp-right{
+    height: 80%;
+    width: 70%;
+    margin-top: 50px;
+}
+.ayp-left p{
+    font-size: 20px;
+    line-height: 1;
+    left: -2px;
+}
+.ayp-left div{
+    font-size: 50px;
+    font-weight: 10px;
+    letter-spacing: -1px;
+    line-height: 1;
+    color: black;
+    padding: 20px 0;
+}
+.ayp-left{
+    margin: 150px 0 0 0px;
+}
+.cvs{
+    background-color: #faefdc;
+}
+.cvs-right p{
+    font-size: 20px;
+}
+.cvs-right div{
+    font-size: 50px;
+    font-weight: 10px;
+    letter-spacing: -1px;
+    line-height: 1;
+    color: black;
+    padding: 20px 0;
+}
+.cvs-right button{
+     height: 50px;
+    width: 150px;
+    background-color: #9524e6;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.cvs-right{
+    width: 80%;
+    margin-top: 150px;
+}
+.credit-score{
+    background-color: #183428;
+}
+.creditscore-left{
+    color: #fdf0af;
+    margin: 80px 0 0 20px;
+}
+.creditscore-left p{
+    font-size: 20px;
+    padding: 10px 30px 0 0;
+}
+.creditscore-left div{
+    font-size: 70px;
+    font-weight: bold;
+    line-height: 1;
+    letter-spacing: -5px;
+}
+.creditscore-left button{
+    height: 50px;
+    width: 150px;
+    color: #9524e6;
+    font-size: 20px;
+    font-weight: bold;
+}
+.feedback{
+    background-color: #9524e6;
+    color: white;
+}
+.feedback-left div{
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 1;
+    letter-spacing: -5px;
+}
+.feedback-left{
+    padding: 200px 0 0 40px;
+}
+.feedback-right1 p,
+.feedback-right2 p,
+.feedback-right3 p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.feedback-right1,
+.feedback-right2,
+.feedback-right3{
+    margin-top: 50px;
+}
+.insurence{
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
+.insurence p{
+    font-size: 20px;
+}
+.insurence div{
+    font-size: 50px;
+    font-weight: bold;
+    color: #ed6c52;
+}
+.insurence button{
+    height: 55px;
+    width: 140px;
+    background-color: #9524e6;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    font-weight: bold;
+}
+.app{
+    background-image: url("C:/Users/elamb/Desktop/Project1/Home-Bespoke-10-Bg-Img.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    height: 55%;
+}
+.app-content{
+    width: 100%;
+    color: rgb(232, 232, 99);
+    margin-top: 50px;
+    line-height: 1;
+}
+.app-content div{
+    font-size: 60px;
+    font-weight: bold;
+    letter-spacing: -5px;
+}
+.app-content button{
+     height: 55px;
+    width: 140px;
+    color: #9524e6;
+    font-size: 20px;
+    margin: 10px;
+    font-weight: bold;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.bloc1{
+  height: 35%; 
+  border-bottom: 1px solid white; 
+}
+.bloc1 ul{
+    list-style: none;
+}
+.terms{
+    display: flex;
+    list-style: none;
+}
+.terms li{
+    padding: 0 10px;
+}
+.footer-titel{
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: -5px;
+}
+.low1 div{
+    font-size: 40px;
+    font-weight: bolder;
+    letter-spacing: -3px;
+    margin-bottom: 25px;
+}
+.low1{
+    line-height: .5;
+}
+.low3 p{
+    font-size: 10px;
+    font-weight: bold;
+}
+.low3 h6{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.low1,
+.low2{
+    height: 25%;
+}

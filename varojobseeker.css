@@ -1,0 +1,176 @@
+.dropdown:hover .dropdown-menu{
+    display: inline-block;
+    margin-top: 0;
+}
+.navbar-nav .nav-link:hover ul{
+    background-color: #9524e6;
+}
+.navbar a{
+    font-size: 18px;
+}
+.navbar{
+    padding: 20px;
+}
+.nav-link{
+    padding-left: 40px;
+}
+.get button{
+    height: 40px;
+    width: 120px;
+    background-color: #9524e6;
+    font-size: 20px;
+    margin: 7px;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.bloc1{
+  height: 35%; 
+  border-bottom: 1px solid white; 
+}
+.bloc1 ul{
+    list-style: none;
+}
+.terms{
+    display: flex;
+    list-style: none;
+}
+.terms li{
+    padding: 0 10px;
+}
+.footer-titel{
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: -5px;
+}
+.low1 div{
+    font-size: 40px;
+    font-weight: bolder;
+    letter-spacing: -3px;
+    margin-bottom: 25px;
+}
+.low1{
+    line-height: .5;
+}
+.low3 p{
+    font-size: 10px;
+    font-weight: bold;
+}
+.low3 h6{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.low1,
+.low2{
+    height: 25%;
+}
+.intro{
+    background-image: url("C:/Users/elamb/Desktop/Project1/BannerRatings-v3_v4-bg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #ed6c52;
+    margin-top: 70px;
+}
+.left1{
+    color: white;
+    font-weight: bold;
+    padding: 30px;
+}
+.left1 p{
+    font-size: 20px;
+}
+.left1 div{
+    font-size: 70px;
+    letter-spacing: -5px;
+    line-height: 1;
+    margin: 25px 0;
+}
+.left1 h5{
+    font-size: 20px;
+    margin: 20px 0;
+}
+.left1 h4{
+    font-family: cursive;
+    font-size: 30px;
+}
+.right1 img{
+    width: 100%;
+    margin-left: 30px;
+}
+.left2 img{
+    height: 70%;
+}
+.emp-resource{
+    height: 100%;
+}
+.right2 h1{
+    font-size: 60px;
+}
+.right2 button{
+    height: max-content;
+    width: max-content;
+    background-color: #9524e6;
+    color: white;
+    font-size: 20px;
+    margin-top: 100px;
+    font-weight: bold;
+}
+.benefit{
+    background-color: #183428;
+}
+.left3{
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    width: 70%;
+    margin-left: 50px;
+}
+.left3 p{
+    font-size: 15px;
+    padding: 10px 0;
+}
+.left3 h1{
+    font-size: 50px;
+    line-height: 1;
+    word-spacing: -3px;
+}
+.left3 button{
+    height: max-content;
+    width: max-content;
+    background-color: white;
+    color: #9524e6;
+    font-size: 20px;
+    margin-top: 7px;
+    font-weight: bold;
+}
+.right3{
+    padding: 10px 0;
+}
+.right3 img{
+    margin-left: 30px;
+}
+.information{
+    background-color: #45185f;
+    color: white;
+    padding: 50px;
+}
+.block{
+    color: black;
+    background-color: white;
+    height: 80%;
+    border-radius: 5px;
+}
+.block h2{
+    font-size: 40px;
+    letter-spacing: -2px;
+    margin: 30px 0 0 20px;
+    line-height: 1;
+}
+.block h4{
+    font-size: 20px;
+    color: #ae53ef;
+    margin: 20px 0 0 20px;
+    width: 80%;
+    text-decoration: underline;
+}
