@@ -58,7 +58,7 @@ footer{
     height: 25%;
 }
 .banner{
-    background-image: url("C:/Users/elamb/Desktop/Project1/V1.webp");
+    background-image: url("Images/V1.webp");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -126,7 +126,7 @@ hr{
     padding: 30px;
 }
 .singup{
-    background-image: url("C:/Users/elamb/Desktop/Project1/cta-section-button.webp");
+    background-image: url("Images/cta-section-button.webp");
     background-color: rgb(245, 50, 50);
     color: white;
     background-repeat: no-repeat;
