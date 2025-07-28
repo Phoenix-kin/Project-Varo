@@ -51,7 +51,7 @@
     margin-bottom: 30px;
 }
 .rating{
-    background-image: url("C:/Users/elamb/Desktop/project1/V2.webp");
+    background-image: url("Images/V2.webp");
     background-color: #d09bf6;
     height: 100%;
     background-size: cover;
@@ -123,7 +123,7 @@ marquee img{
     line-height: 1;
 }
 .service{
-    background-image:  url("C:/Users/elamb/Desktop/project1/V2.webp");
+    background-image:  url("Images/V2.webp");
 }
 .service ul{
     display: flex;
@@ -363,7 +363,7 @@ marquee img{
     font-weight: bold;
 }
 .app{
-    background-image: url("C:/Users/elamb/Desktop/Project1/Home-Bespoke-10-Bg-Img.webp");
+    background-image: url("Images/Home-Bespoke-10-Bg-Img.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
